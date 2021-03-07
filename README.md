@@ -6,4 +6,4 @@ Ad ve Soyadı girilen kişinin 2 vize notu ve 1 final notunu ( 0.30 + 0.30 + 0.4
 Tasarım Responsive'dir.
 
 
-Web Sitesi: https://ooguzyuksel.github.io/ortalamaHesaplayici/
+Web Sitesi: https://ooguzyuksel.github.io/ortalamaHesaplayici1.1/
